@@ -1,0 +1,1 @@
+ Loop from 1 to 100 and print each number
